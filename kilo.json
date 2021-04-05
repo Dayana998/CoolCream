@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Fozen",
         "descripcion": "Sabor a chicle",
-        "imagen": "../img/kilochicle.png"
+        "imagen": "img/kilochicle.png"
     },
     {
         "precio": 15,

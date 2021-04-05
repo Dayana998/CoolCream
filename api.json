@@ -1,0 +1,50 @@
+[{
+        "precio": 2,
+        "id": 1,
+        "title": "Fozen",
+        "descripcion": "Sabor a chicle con gomitas",
+        "imagen": "../img/conochicle.png"
+    },
+    {
+        "precio": 2,
+        "id": 2,
+        "title": "ChocoLoco",
+        "descripcion": "Sabor a Chocolate con chispas y jalea",
+        "imagen": "../img/conochocolate.png"
+    },
+    {
+        "precio": 2,
+        "id": 3,
+        "title": "Fruti Patricio",
+        "descripcion": "Sabor a frutilla con jalea de chocolate",
+        "imagen": "../img/conofrutilla.png"
+    },
+    {
+        "precio": 2,
+        "id": 4,
+        "title": "Gamora",
+        "descripcion": "SAbor a mora con chispas de colores",
+        "imagen": "../img/conomora.png"
+    },
+    {
+        "precio": 3,
+        "id": 5,
+        "title": "O:E:O",
+        "descripcion": "Sabor a galletas de oreo con jalea",
+        "imagen": "../img/conooreo.png"
+    },
+    {
+        "precio": 3,
+        "id": 6,
+        "title": "Cookies & Cream",
+        "descripcion": "Sabor a vainilla con trozos de galleta de chocolate",
+        "imagen": "../img/conovainilla.png"
+    },
+    {
+        "precio": 2,
+        "id": 7,
+        "title": "Grinch",
+        "descripcion": "Sabor a menta con chispas de chocolate",
+        "imagen": "../img/conochocolate.png"
+    }
+]

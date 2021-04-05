@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+.contenedor {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    margin-bottom: 55px;
+}
+
+.contenedor img {
+    width: 1425px;
+    height: 650px;
+}
+
+.centrado1 {
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 64px;
+    top: 40%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+}
+
+.martes {
+    margin-top: 20px;
+    background-image: url(../img/amarillo.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.jueves {
+    margin-top: 20px;
+    background-image: url(../img/baner6.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.sabado {
+    margin-top: 20px;
+    background-image: url(../img/banner4.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.text-day {
+    margin-left: 300px;
+    padding-top: 65px;
+    font-size: 20rem;
+    font-family: 'Dancing Script', cursive;
+}

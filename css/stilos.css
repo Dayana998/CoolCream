@@ -1,0 +1,21 @@
+.card .card-img-top {
+    height: 350px;
+    width: 440px;
+    border-radius: 2em;
+}
+
+.card {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 2em;
+    width: 440px;
+    background-color: rgba(250, 129, 48, 0.466);
+}
+
+.card-body {
+    height: 160px;
+}
+
+.contenedor img {
+    max-width: 1436px;
+}

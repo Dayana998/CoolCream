@@ -10,41 +10,41 @@
         "id": 2,
         "title": "ChocoLoco",
         "descripcion": "Sabor a Chocolate",
-        "imagen": "../img/kilochocolate.png"
+        "imagen": "img/kilochocolate.png"
     },
     {
         "precio": 15,
         "id": 3,
         "title": "Fruti Patricio",
         "descripcion": "Sabor a frutilla",
-        "imagen": "../img/kilofrutilla.png"
+        "imagen": "img/kilofrutilla.png"
     },
     {
         "precio": 15,
         "id": 4,
         "title": "Gamora",
         "descripcion": "Sabor a mora",
-        "imagen": "../img/kilomora.png"
+        "imagen": "img/kilomora.png"
     },
     {
         "precio": 17,
         "id": 5,
         "title": "O:E:O",
         "descripcion": "Sabor a galletas de oreo",
-        "imagen": "../img/kilooreo.png"
+        "imagen": "img/kilooreo.png"
     },
     {
         "precio": 17,
         "id": 6,
         "title": "Cookies & Cream",
         "descripcion": "Sabor a vainilla ",
-        "imagen": "../img/kilovainilla.png"
+        "imagen": "img/kilovainilla.png"
     },
     {
         "precio": 17,
         "id": 7,
         "title": "Grinch",
         "descripcion": "Sabor a menta granizado",
-        "imagen": "../img/kilomenta.png"
+        "imagen": "img/kilomenta.png"
     }
 ]
